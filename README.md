@@ -1,4 +1,4 @@
- sp3ctr4l_z 
+ sp3ctr4lz 
 
  🖥️  <penetration tester & automation nerd>
  📍  <somewhere with good tea and fast internet>
